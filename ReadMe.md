@@ -1,6 +1,6 @@
 ## PDA20 - Proteomics Data Analysis
 <!--
-###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - April 1<sup>st</sup> - April 4<sup>th</sup> 2019
+###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - April 1<sup>st</sup> - April 4<sup>th</sup> 2020
 -->
 
 ---
@@ -20,7 +20,7 @@ The following co-authors contributed to the development of the training material
 
 <!--
 #### Course Webpage
-This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2019/PDA20/), for further information about the course.
+This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2020/PDA20/), for further information about the course.
 -->
 
 #### License
