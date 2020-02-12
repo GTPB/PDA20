@@ -1,6 +1,7 @@
-## PDA19 - Proteomics Data Analysis
-
+## PDA20 - Proteomics Data Analysis
+<!--
 ###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - April 1<sup>st</sup> - April 4<sup>th</sup> 2019
+-->
 
 ---
 
@@ -42,4 +43,4 @@ This project is licensed under CC-BY 4.0 - see the [License.md](License.md) for 
 
 <br/>
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">PDA19</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">GTPB</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">PDA20</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">GTPB</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
