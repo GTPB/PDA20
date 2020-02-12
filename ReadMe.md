@@ -1,6 +1,6 @@
 ## PDA20 - Proteomics Data Analysis
 <!--
-###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - April 1<sup>st</sup> - April 4<sup>th</sup> 2019
+###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - April 1<sup>st</sup> - April 4<sup>th</sup> 2020
 -->
 
 ---
@@ -19,7 +19,7 @@ The following co-authors contributed to the development of the training material
 - The [rocker-binder team](https://github.com/rocker-org/binder) for providing a docker image with shiny proxy support.
 
 #### Course Webpage
-This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2019/PDA19/), for further information about the course.
+This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2020/PDA20/), for further information about the course.
 
 #### Code of Conduct
 Please read the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for details on contributing and reusing the training material.
