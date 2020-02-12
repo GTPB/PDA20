@@ -7,8 +7,8 @@ schemadotorg:
   "@type": CreativeWork
   "genre": TrainingMaterial
   isPartOf:
-      url: "https://gtpb.github.io/PDA19/"
-      name: "PDA19 - Proteomics Data Analysis"
+      url: "https://gtpb.github.io/PDA20/"
+      name: "PDA20 - Proteomics Data Analysis"
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>

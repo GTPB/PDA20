@@ -7,8 +7,8 @@ schemadotorg:
   "@type": CreativeWork
   "genre": TrainingMaterial
   isPartOf:
-      url: "https://gtpb.github.io/PDA19/"
-      name: "PDA19 - Proteomics Data Analysis"
+      url: "https://gtpb.github.io/PDA20/"
+      name: "PDA20 - Proteomics Data Analysis"
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
@@ -86,7 +86,7 @@ The App is launched.
 
 The Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1) reference proteome. The resulting database has 2,051 proteins in total ([https://www.uniprot.org/uniprot/?query=taxonomy:186497](https://www.uniprot.org/uniprot/?query=taxonomy:186497), taxonomy:"Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1) [186497]").
 
-The data can be found on [https://github.com/GTPB/PDA19/tree/data](https://github.com/GTPB/PDA19/tree/data).
+The data can be found on [https://github.com/GTPB/PDA20/tree/data](https://github.com/GTPB/PDA20/tree/data).
 Use the mzid file for the pyrococcus example, which can be found at data/identification/pyrococcusMSGF+.mzid.
 When the file is uploaded, push the "Process mzid file" button. It will take a while to process the file and you will see that the "Process mzid file" becomes light blue and that an activity indicator appears next to the button.
 

@@ -6,8 +6,8 @@ schemadotorg:
   "@type": CreativeWork
   "genre": TrainingMaterial
   isPartOf:
-      url: "https://gtpb.github.io/PDA19/"
-      name: "PDA19 - Proteomics Data Analysis"
+      url: "https://gtpb.github.io/PDA20/"
+      name: "PDA20 - Proteomics Data Analysis"
 ---
 
 The participants should have a basic knowledge about mass spectrometry based proteomics. Experience in analysing proteomics data is an advantage, but not mandatory. The course does not require advanced computer skills.

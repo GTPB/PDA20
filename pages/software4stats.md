@@ -6,8 +6,8 @@ schemadotorg:
   "@type": CreativeWork
   "genre": TrainingMaterial
   isPartOf:
-      url: "https://gtpb.github.io/PDA19/"
-      name: "PDA19 - Proteomics Data Analysis"
+      url: "https://gtpb.github.io/PDA20/"
+      name: "PDA20 - Proteomics Data Analysis"
 ---
 
 There are three options to work with the software:

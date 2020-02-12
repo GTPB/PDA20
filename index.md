@@ -8,7 +8,7 @@ schemadotorg:
   # Course details
        # "name" -> The name of the course
        # "description" -> Short description of the course
-  name: "PDA19 - Proteomics Data Analysis"
+  name: "PDA20 - Proteomics Data Analysis"
   description: "Training material that covers the concepts and methods of Mass spectrometry based proteomic experiments, covering peptide and protein identification, quantification, and differential analysis."
 
   # Keywords -> Consult EDAM:Topic
@@ -39,7 +39,7 @@ schemadotorg:
   # License & Language & url
   license: https://creativecommons.org/licenses/by/4.0/
   inLanguage: "en-us"
-  url: "https://gtpb.github.io/PDA19/"
+  url: "https://gtpb.github.io/PDA20/"
 ---
 
 ![IntroFig](./pages/figs/IntroFig.png)
@@ -62,8 +62,8 @@ All the datasets used for this training course is available throughout the docum
 
 - Slides: [Bioinformatics for Proteomics](assets/martens_proteomics_bioinformatics_20190401.pdf)
 - Slides: [Quantification in MS proteomics](assets/martens_proteomics_quantification_20180530.pdf)
-- Slides: [Data Sharing](assets/DataSharingPDA19.pdf)
-- Slides: [Pathways](assets/PathwayDiscussionPDA19.pdf)
+- Slides: [Data Sharing](assets/DataSharingPDA20.pdf)
+- Slides: [Pathways](assets/PathwayDiscussionPDA20.pdf)
 
 - Tutorials: [Tutorials Bioinformatics for Proteomics](https://compomics.com/bioinformatics-for-proteomics/)  
 
@@ -96,8 +96,8 @@ All the datasets used for this training course is available throughout the docum
 
 ---
 
-The source for this course webpage is [on github](https://github.com/GTPB/PDA19/tree/gh-pages).
+The source for this course webpage is [on github](https://github.com/GTPB/PDA20/tree/gh-pages).
 
 <br>
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">PDA19</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">GTPB</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">PDA20</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">GTPB</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
