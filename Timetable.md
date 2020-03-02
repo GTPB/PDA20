@@ -1,0 +1,46 @@
+# Timetable (provisional)
+
+## Day 1
+### Mon, April 27th
+
+09:30 - 11:00	Introductions and expectations. Mass spectrometry based proteomics (I).
+11:00 - 11:30	Coffee Break
+11:30 - 12:30	Mass spectrometry based proteomics (II).
+12:30 - 14:00	Lunch Break
+14:00 - 16:00	Sequence databases and raw file conversion. Summary and questions.
+16:00 - 16:30	Tea Break
+16:30 - 18:00	Searching data and viewing the results (I). Summary and questions.
+
+
+## Day 2
+## Tue, April 28th
+
+09:30 - 11:00	Summary of Day 1. Wrap-up (what have we done so far?). Searching data and viewing the results (I).
+11:00 - 11:30	Coffee Break
+11:30 - 12:30	Searching data and viewing the results (II).
+12:30 - 14:00	Lunch Break
+14:00 - 16:00	Protein inference. Summary and questions.
+16:00 - 16:30	Tea Break
+16:30 - 18:00	Protein validation. Summary and questions.
+
+# Day 3
+## Wed, April 29th
+
+09:30 - 11:00	Summary of Day 2. Wrap-up (what have we done so far?). FDR, reliability and decoys.
+11:00 - 11:30	Coffee Break
+11:30 - 12:30	FDR, reliability and decoys
+12:30 - 14:00	Lunch Break
+14:00 - 16:00	FDR, reliability and decoys Summary and questions.
+16:00 - 16:30	Tea Break
+16:30 - 18:00	Data sharing. Summary and questions.
+
+# Day 4
+## Wed, April 30th
+
+09:30 - 11:00	Summary of Day 3. Wrap-up (what have we done so far?). Quant data preprocessing & summarization.
+11:00 - 11:30	Coffee Break
+11:30 - 12:30	Quant data preprocessing & summarization.
+12:30 - 14:00	Lunch Break
+14:00 - 16:00	Differential analysis. Summary and questions.
+16:00 - 16:30	Tea Break
+16:30 - 18:00	Differential analysis. Final wrap-up and Questions.
